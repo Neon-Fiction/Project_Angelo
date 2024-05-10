@@ -1,1 +1,26 @@
-<--the caines-->
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=400, initial-scale=1.0">
+
+<title>404 error</title>
+</head>
+
+<body>
+
+<!-- setting the background color. -->
+<body style="background-color:#FFFFFF;">
+<h4 style="color:black; font-size:30; font-family:sans-serif">404</h4>
+<p style="color:black; font-family:sans-serif; font-size:20;">The resource requested could not be found on the server.</p>
+
+<form method="get" action="">
+    <button type="submit" style="background-color:White; color: Black; position: absolute; top: 160px; left: 0px; width: 75px; height: 25px;">Retry</button>
+</form>
+
+
+
+<!-- this is the end -->
+</body>
+</html>
